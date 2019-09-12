@@ -7,3 +7,4 @@ int main() {
 	cout << "Nilai variabel a adalah = " << a <<endl;
 	return 0;
 }
+
